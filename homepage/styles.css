@@ -1,0 +1,8 @@
+.bg {
+    background-image: url("tennis4.PNG");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
